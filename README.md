@@ -20,3 +20,6 @@ For scripts visualising Epigenetic and Structural Rearrangment data, see:
 
 For scripts visualising percentage identity of sequences, see:
 't2t clustal.ipynb'
+
+For scripts annotating and visualising trees, see:
+tree_visualisation.py
