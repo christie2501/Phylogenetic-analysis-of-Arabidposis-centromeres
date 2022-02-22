@@ -21,5 +21,9 @@ For scripts visualising Epigenetic and Structural Rearrangment data, see:
 For scripts visualising percentage identity of sequences, see:
 't2t clustal.ipynb'
 
+For scripts running mafft and iqtree, see:
+'Run_tree__t2t180.sh'
+'Run_tree__mega2.sh'
+
 For scripts annotating and visualising trees, see:
 tree_visualisation.py
